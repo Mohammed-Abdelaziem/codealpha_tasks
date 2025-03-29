@@ -2,7 +2,7 @@
 Choose a programming language and application. Review the code for security vulnerabilities and provide recommendations for secure coding practices.<br>
 Use tools like static code analyzers or manual code review.
 
-This is a Project I made as a part of Course Work<br>
+This is a Project my friend made as a part of Course Work<br>
 Performing a Secure code review on this application to find and fix its vulnerabilities.<br>
 Project Link - [ADS - IOT](https://github.com/DPRIYATHAM/ADS-IOT/tree/main/Software)
 
@@ -40,14 +40,14 @@ SAST tools can be added to your IDE. Such tools can help you detect issues durin
     - [Wikipedia - List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 - OWASP Project Benchmarks - [Link](https://owasp.org/www-project-benchmark/)
 
-According to My Project, I found these Tools useful and I am exploring them.
+According to The Project, I found these Tools useful and I am exploring them.
 - ASH by AWS - Open Source, Free - [Link](https://github.com/awslabs/automated-security-helper)
 - Bandit - Open Source - [Link](https://github.com/PyCQA/bandit)
 - HCL AppScan - Open Source, Free - [Link](https://github.com/marketplace/actions/hcl-appscan-codesweep)
 - Pyre - Open Source, Free - [Link](https://pyre-check.org/)
 - Veracode - Open Source, Free - [Link](https://www.veracode.com/)
 
-> Through the Manual Secure Coding Review of My Application I followed OWASP's Top Ten
+> Through the Manual Secure Coding Review of The Application I followed OWASP's Top Ten
 
 - Fixed the Broken Access Control - Using JWT Token
 - Fixed the Cryptographic Failures - By Applying Encryption to the Data in the DataBase
@@ -56,4 +56,4 @@ According to My Project, I found these Tools useful and I am exploring them.
 - I will be continuing to work on these even after the Internship period (driven by passion)
 
 ## Conclusion
-This is a great experience to learn Secure Coding Review and to correct the mistakes I made as a developer before.
+This is a great experience to learn Secure Coding Review and to correct the mistakes made By a developer.
